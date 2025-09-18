@@ -1,0 +1,17 @@
+Timestamp,Transcript,Summary,Sentiment
+9/17/2025 19:40,"Customer: Hi, I was trying to book a slot yesterday but the payment failed multiple times. 
+Agent: I'm sorry to hear that. Could you tell me what error message you were seeing?
+Customer: It just said ""payment processing failed"" but didn't give any details. I really need to get this appointment scheduled.
+Agent: Let me check your account. I see the attempts. It might be an issue with your card. 
+Customer: But I used the same card for other purchases today and it worked fine.
+Agent: I understand your frustration. Let me try to process it from my end.","The customer experienced issues with payment processing while trying to book a slot, and the agent assisted by checking the customer's account and attempting to process the payment from their end.",Neutral
+9/18/2025 18:15,"Agent: Hello, thank you for calling AcmeCorp. How can I help?
+Customer: My internet has been down since last night. I have tried rebooting but no luck.
+Agent: I'm sorry for the inconvenience. I'll check your account and schedule a technician if needed.
+Customer: Thank you, I'd appreciate that.
+","The customer called AcmeCorp to report their internet service has been down since the previous night, and the agent offered to check their account and schedule a technician if necessary.",Neutral
+2025-09-18 18:35:57,"Customer: ""I’ve been waiting on hold for over 40 minutes, this is ridiculous! I’ve called three times this week and no one has solved my issue. My internet has been down since Monday and I work from home. How am I supposed to do my job if your service keeps failing? I’m paying every month, and honestly, this is the worst customer support I’ve ever experienced!""
+
+Agent: ""I’m really sorry to hear that you’ve had such a frustrating experience. Let me check your account and see what’s going on with your internet connection.""
+
+Customer: ""I don’t want another apology, I want my internet fixed TODAY. If this isn’t resolved immediately, I’m canceling my subscription and switching to another provider. This is unacceptable!""","The customer is extremely frustrated with the prolonged wait time and lack of resolution to their internet issue, which has been ongoing since Monday and is affecting their work-from-home job. They express their dissatisfaction with the customer support and threaten to cancel their subscription if the issue is not resolved immediately. The agent attempts to address the issue by checking the customer's account.",Negative
